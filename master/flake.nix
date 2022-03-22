@@ -9,7 +9,7 @@
   
   inputs.src-patty-master.flake = false;
   inputs.src-patty-master.owner = "andreaferretti";
-  inputs.src-patty-master.ref   = "refs/heads/master";
+  inputs.src-patty-master.ref   = "master";
   inputs.src-patty-master.repo  = "patty";
   inputs.src-patty-master.type  = "github";
   

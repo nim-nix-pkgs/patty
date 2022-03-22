@@ -9,7 +9,7 @@
   
   inputs.src-patty-0_1_10.flake = false;
   inputs.src-patty-0_1_10.owner = "andreaferretti";
-  inputs.src-patty-0_1_10.ref   = "refs/tags/0.1.10";
+  inputs.src-patty-0_1_10.ref   = "0_1_10";
   inputs.src-patty-0_1_10.repo  = "patty";
   inputs.src-patty-0_1_10.type  = "github";
   
