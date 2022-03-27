@@ -11,6 +11,7 @@
   inputs.src-patty-master.ref   = "refs/heads/master";
   inputs.src-patty-master.owner = "andreaferretti";
   inputs.src-patty-master.repo  = "patty";
+  inputs.src-patty-master.dir   = "";
   inputs.src-patty-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
