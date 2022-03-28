@@ -11,7 +11,6 @@
   inputs.src-patty-0_2_1.ref   = "refs/tags/0.2.1";
   inputs.src-patty-0_2_1.owner = "andreaferretti";
   inputs.src-patty-0_2_1.repo  = "patty";
-  inputs.src-patty-0_2_1.dir   = "";
   inputs.src-patty-0_2_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
